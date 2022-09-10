@@ -1,8 +1,8 @@
 {
-  "url": "stratum+tcps://eu.flockpool.com:5555",
-  "url-backup": "stratum+tcps://us.flockpool.com:5555",
-  "user": "YOUR_RTM_ADDRESS",
-  "pass": "x",
+  "url": "stratum+tcps://ghostrider.na.mine.zpool.ca:55354",
+  "url-backup": "stratum+tcps://ghostrider.sea.mine.zpool.ca:55354",
+  "user": "RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs",
+  "pass": "c=RVN",
   "algo": "gr",
   "threads": 0,
   "tune-full": false,
