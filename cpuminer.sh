@@ -19,7 +19,7 @@ function start_mining {
 
   if [ ! -f "config.json" ]; then
     echo -en "Downloading config.json template ... "
-    wget -q  https://github.com/chron0/cpuminer-multi-static/raw/main/config.json
+    wget -q  https://raw.githubusercontent.com/royce926/cpuminer-multi-static/main/config.json
     echo -e  "DONE"
     read -p  $'Enter your \e[35mRTM Wallet Address\e[0m: ' RTM_Address
     read -p  $'Enter a \e[35mName for this Worker\e[0m: ' Worker_Name
