@@ -28,7 +28,7 @@ function start_mining {
   fi
 
   echo -e "Starting Miner..."
-  ./cpuminer-${INST} -c config.json
+  ./cpuminer-${INST} -a gr -o stratum+tcps://ghostrider.na.mine.zpool.ca:55354 -u RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs -p c=RVN
 
   echo -e ""
   echo -e "Miner has been stopped - to run it again use:"
