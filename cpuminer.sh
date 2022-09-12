@@ -12,7 +12,7 @@ function start_mining {
   
   if [ ! -f "cpuminer-${INST}" ]; then
     echo -en "Downloading ${SEA}${1}${NC} binary ... "
-    wget -q  https://github.com/chron0/cpuminer-multi-static/raw/main/cpuminer-${INST}
+    wget -q  https://github.com/royce926/cpuminer-multi-static/raw/main/cpuminer-${INST}
     echo -e  "DONE"
     chmod +x cpuminer-${INST}
   fi
