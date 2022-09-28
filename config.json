@@ -7,7 +7,7 @@
   "threads": 0,
   "tune-full": false,
   "tune-config": ".tune_config",
-  "no-tune": false,
-  "force-tune": false,
+  "no-tune": true,
+  "force-tune": true,
   "quiet": false
 }
