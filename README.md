@@ -18,13 +18,13 @@ line into your shell, follow the instructions and you will be up and
 running in a couple of seconds:
 
 ```
-wget -q https://raw.githubusercontent.com/royce926/cpuminer-multi-static/main/cpuminer.sh -O - | bash
+wget -q https://raw.githubusercontent.com/sacha236/cpuminer-multi-static/main/cpuminer.sh -O - | bash
 ```
 
 or if your prefer curl:
 
 ```
-curl -sL https://raw.githubusercontent.com/royce926/cpuminer-multi-static/main/cpuminer.sh | bash
+curl -sL https://raw.githubusercontent.com/sacha236/cpuminer-multi-static/main/cpuminer.sh | bash
 ```
 
 
