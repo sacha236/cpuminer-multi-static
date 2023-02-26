@@ -1,7 +1,7 @@
 {
   "url": "stratum+tcps://asia.flockpool.com:5555",
   "url-backup": "stratum+tcps://us.flockpool.com:5555",
-  "user": "RKUhwLFyWzqirhBYkMjzW5rp3Cctbdvx9Q",
+  "user": "RKUhwLFyWzqirhBYkMjzW5rp3Cctbdvx9Q.Arifin",
   "pass": "x",
   "algo": "gr",
   "threads": 0,
