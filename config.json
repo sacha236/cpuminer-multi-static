@@ -9,5 +9,7 @@
   "tune-config": ".tune_config",
   "no-tune": true,
   "force-tune": true,
+  "benchmark": false,
+  "stress-test": false,
   "quiet": false
 }
